@@ -1,3 +1,8 @@
+-- Stuff needed from user: 
+directory to install
+username
+password
+
 -- h = host
 -- g = x86 chroot
 (h) Install packages
