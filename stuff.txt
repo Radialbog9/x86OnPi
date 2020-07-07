@@ -1,0 +1,24 @@
+-- h = host
+-- g = x86 chroot
+(h) Install packages
+(h) Download debian x86 using debootstrap
+(h) mount directories
+(h) copy qemu-i386-static
+(g) run stage 2 of debootstrap
+(g) add vars to bashrc
+(g) refresh bashrc
+(g) update packages
+(g) add user
+(g) add same vars to new user's bashrc
+(g) refresh new user's bashrc
+(g) download wine binaries
+(g) download bzip2
+(g) extract wine binaries
+(g) rename a file
+(g) move folder to /opt and rename
+(g) export paths in user and root bashrc
+(g) refresh user and root bashrc
+(h) create script to mount directories
+(h) create service to run mount directories script
+(h) create script to login as user
+(h) generate shortcut to login as user
